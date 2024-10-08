@@ -693,9 +693,18 @@ video {
   padding-bottom: 3rem;
 }
 
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
 .py-5 {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
+}
+
+.pl-4 {
+  padding-left: 1rem;
 }
 
 .text-left {
@@ -735,6 +744,11 @@ video {
   line-height: 1.25rem;
 }
 
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
 .font-bold {
   font-weight: 700;
 }
@@ -764,10 +778,6 @@ video {
   text-underline-offset: 8px;
 }
 
-.duration-500 {
-  transition-duration: 500ms;
-}
-
 .button{
   border: 1px solid black;
   text-transform: uppercase;
@@ -780,7 +790,9 @@ video {
   padding-right: 4rem /* 64px */;
 }
 
-/* banner für images in section 3 */
+/* Fragen, ob costum design genutzt werden darf */
+
+/* banner für images in  3rd section */
 
 .banner{
   position: absolute;
@@ -794,16 +806,6 @@ video {
   font-size: 0.75rem /* 12px */;
   line-height: 1rem /* 16px */;
   letter-spacing: 0.05em;
-}
-
-.hover\:bg-black:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
-}
-
-.hover\:text-white:hover {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .hover\:underline:hover {

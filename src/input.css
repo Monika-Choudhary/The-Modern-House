@@ -2,3 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+.button{
+    border: 1px solid black;
+    text-transform: uppercase;
+    font-size: 0.875rem /* 14px */;
+    line-height: 1.25rem /* 20px */;
+    letter-spacing: 0.05em;
+    padding-top: 0.75rem /* 12px */;
+    padding-bottom: 0.75rem /* 12px */;
+    padding-left: 4rem /* 64px */;
+    padding-right: 4rem /* 64px */;
+   
+}

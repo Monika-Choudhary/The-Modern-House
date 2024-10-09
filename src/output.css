@@ -566,16 +566,8 @@ video {
   position: relative;
 }
 
-.left-0 {
-  left: 0px;
-}
-
 .right-40 {
   right: 10rem;
-}
-
-.top-0 {
-  top: 0px;
 }
 
 .top-7 {
@@ -608,10 +600,6 @@ video {
   display: grid;
 }
 
-.h-10 {
-  height: 2.5rem;
-}
-
 .h-56 {
   height: 14rem;
 }
@@ -622,10 +610,6 @@ video {
 
 .w-3\/5 {
   width: 60%;
-}
-
-.w-full {
-  width: 100%;
 }
 
 .cursor-pointer {
@@ -709,18 +693,9 @@ video {
   padding-bottom: 3rem;
 }
 
-.py-3 {
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-}
-
 .py-5 {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
-}
-
-.pl-4 {
-  padding-left: 1rem;
 }
 
 .text-left {
@@ -758,11 +733,6 @@ video {
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
-}
-
-.text-xs {
-  font-size: 0.75rem;
-  line-height: 1rem;
 }
 
 .font-bold {
@@ -806,9 +776,7 @@ video {
   padding-right: 4rem /* 64px */;
 }
 
-/* Fragen, ob costum design genutzt werden darf */
-
-/* banner für images in  3rd section */
+/* banner für images in section 3 */
 
 .banner{
   position: absolute;

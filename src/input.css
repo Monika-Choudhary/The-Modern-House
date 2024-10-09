@@ -14,8 +14,7 @@
     padding-right: 4rem /* 64px */;
    
 }
-/* Fragen, ob costum design genutzt werden darf */
-/* banner für images in  3rd section */
+/* banner für images in section 3 */
 .banner{
     position: absolute;
     top: 0;
@@ -28,4 +27,4 @@
     font-size: 0.75rem /* 12px */;
     line-height: 1rem /* 16px */;
     letter-spacing: 0.05em;
-}
+    }
